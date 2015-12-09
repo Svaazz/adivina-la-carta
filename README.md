@@ -4,6 +4,6 @@
 [Descargar desde programminglover.com](http://programminglover.com/testing_zone/proyectos/carta/)
 
 ```
-Utiliza **a** para obtener la ayuda de la I.A.
-Utiliza **+** o **-** para indicar tu predicción.
+Utiliza 'a' para obtener la ayuda de la I.A.
+Utiliza '+' o '-' para indicar tu predicción.
 ```
